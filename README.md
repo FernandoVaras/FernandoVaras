@@ -19,5 +19,4 @@ lvaraspadilla147@gmail.com
 
 ## 🔧 Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,linux,ubuntu,git,vscode,tensorflow,opencv,ros)](https://skillicons.dev)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
