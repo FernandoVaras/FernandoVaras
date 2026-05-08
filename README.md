@@ -18,9 +18,4 @@ I'm passionate about robotics, computer vision, and edge AI — building systems
 lvaraspadilla147@gmail.com
 
 ## 🔧 Tools & Technologies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,linux,git,opencv,ros)](https://skillicons.dev)
