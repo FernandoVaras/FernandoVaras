@@ -1,7 +1,6 @@
 # Hi, I'm Fernando Varas 👋
 
-Mechatronics Engineering student @ UNI, Lima, Perú (Top 5%)
-
+Mechatronics Engineering student @ UNI, Lima, Perú (Top 20%)
 I'm passionate about robotics, computer vision, and edge AI — building systems where software meets physical hardware.
 
 ## 🚀 Highlights
