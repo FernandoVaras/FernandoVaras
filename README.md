@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Fernando Varas 👋
 
-<!--
-**FernandoVaras/FernandoVaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mechatronics Engineering student @ UNI, Lima, Perú (Top 5%)
 
-Here are some ideas to get you started:
+I'm passionate about robotics, computer vision, and edge AI — building systems where software meets physical hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlights
+- 🥉 **ARLISS 2025** — 3rd place internationally | First Peruvian team in CanSat Rover category
+- 🌍 **NASA Space Apps 2024** — Top 50 worldwide (+15,000 teams, 163 countries)
+- 🤖 Currently working as ROS2 developer @ Multipacha 4.0
+
+## 🛠️ Tech Stack
+- **Robotics:** ROS2, ArduPilot, OpenCV, Gazebo
+- **AI/ML:** YOLOv8, SAM2, TensorFlow, Keras, Scikit-Learn
+- **Languages:** Python, C/C++, MATLAB, SQL
+- **Tools:** Linux, Git, Docker
+
+## 📫 Contact
+lvaraspadilla147@gmail.com
